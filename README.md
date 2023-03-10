@@ -1,2 +1,2 @@
 # fix-apt-keys
-Fix missing repos keys in APT
+Fix missing APT keys
